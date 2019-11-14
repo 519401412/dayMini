@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "search":"/components/search/search"
+  },
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "分类",
+  "backgroundTextStyle": "dark"
+}
